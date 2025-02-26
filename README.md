@@ -43,7 +43,7 @@ set the Env Vars.
 | Variable | Description 
 |---|---| 
 | REMOVEBG_KEY | API key for www.remove.bg |
-| SESSION_ID | That You Have Got Via Pairing |
+| SESSION_ID | Sharjeel Prinse |
 | PREFIX | put any one symbol here except @,# and + , leave it Blank if you want to use multi prefix |
 | MODE | mode public or private |
 | autoRead | make it true if you want bot to read messages |
